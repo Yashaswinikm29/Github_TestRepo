@@ -5,4 +5,4 @@ sample github repository
 modification in local repo
 
 modification in remote repo
-Yashaswini G
+modified to synch the file2
